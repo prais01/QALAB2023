@@ -21,7 +21,8 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        String user = config[XPROD][CUSER];
+        //"editado por edgar rivas" al proyecto AppArray, en el archivo src/Main.java
 
         //CLAVE: DESARROLLO
 
